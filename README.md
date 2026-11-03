@@ -41,9 +41,7 @@ Simulation (`python kuka.py`, the KUKA arm reaching the cube):
 
 ![KUKA simulation](media/kuka_simulation.gif)
 
-Articulated robot:
 
-![Articulated robot](bault/articulated_robot.gif)
 
 Sample dataset image:
 
