@@ -37,9 +37,9 @@ Result:
 
 ![Result](media/result.png)
 
-Simulation (robot movement):
+Simulation (`python kuka.py`, the KUKA arm reaching the cube):
 
-![Robot movement](bault/robot_movement.gif)
+![KUKA simulation](media/kuka_simulation.gif)
 
 Articulated robot:
 
